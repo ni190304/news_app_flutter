@@ -80,7 +80,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 alignment: Alignment.center,
                                 children: [
                                   Container(
-                                    height: height * 0.6,
+                                    height: height * 0.59,
                                     width: width * 0.9,
                                     padding: EdgeInsets.symmetric(
                                         horizontal: height * 0.02),
